@@ -9,8 +9,8 @@ namespace picacomic
 {
     struct Account
     {
-        public string username;
-        public string password;
+        公共 string username;
+        公共 string password;
     }
     class Program
     {
@@ -79,4 +79,5 @@ namespace picacomic
 
     }
 }
-  
+
+
